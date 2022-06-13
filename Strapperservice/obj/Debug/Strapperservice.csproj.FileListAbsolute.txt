@@ -1,0 +1,8 @@
+C:\Users\Chris\Desktop\Strapperservice\bin\Debug\Strapperservice.exe.config
+C:\Users\Chris\Desktop\Strapperservice\bin\Debug\Strapperservice.exe
+C:\Users\Chris\Desktop\Strapperservice\bin\Debug\Strapperservice.pdb
+C:\Users\Chris\Desktop\Strapperservice\obj\Debug\Strapperservice.csproj.AssemblyReference.cache
+C:\Users\Chris\Desktop\Strapperservice\obj\Debug\Strapperservice.csproj.SuggestedBindingRedirects.cache
+C:\Users\Chris\Desktop\Strapperservice\obj\Debug\Strapperservice.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Desktop\Strapperservice\obj\Debug\Strapperservice.exe
+C:\Users\Chris\Desktop\Strapperservice\obj\Debug\Strapperservice.pdb
